@@ -1,15 +1,14 @@
 def getAvailableLetters(lettersGuessed):
     '''
-    lettersGuessed: list, what letters have been guessed so far
-    returns: string, comprised of letters that represents what letters have not
-      yet been guessed.
-    '''
-    # FILL IN YOUR CODE HERE...
-    L2 = []
-    import string
-    for c in string.ascii_lowercase:
-        L2.append(c)
-        #print L2
+        ;gmrt
+        hbmtr
+        hmrst
+        mr
+        hbmr
+        nmt
+        n
+        p,
+        ][aL2
         
     def removeDupsBetter(L1,L2):
         L1Start = L1[:]
